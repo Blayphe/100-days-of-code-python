@@ -33,6 +33,10 @@ A program that allows the user to ask for the amount of letters symbols and numb
 - **Skills:** more random module, .shuffle and .join for password shuffling and combining, for loops, lists
 - **Run:** `python day5.py`
 
+### Day 7 - Hangman Game
+A program in the form of a game that allows the user to guess letters for a random word. If the user guesses wrong they are prompted with an ascii art a life lossed and the letter they guessed, eventually leading to a won text or lost text if lives reach 0.
+- **Skill:** import and from keywords, multiple program files, if elif and else statements, for and while loop requirements
+- **Run:** `python day 7.py`
 
 ---
 
